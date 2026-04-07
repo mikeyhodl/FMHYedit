@@ -1,0 +1,25 @@
+﻿#  | FreeMediaHeckYeah
+
+> The Largest Collection of Free Stuff On The Internet!
+
+- [Welcome](https://freemediaheckyeah.pages.dev/readme.md): Welcome
+- [Beginners Guide to Piracy](https://freemediaheckyeah.pages.dev/beginners-guide.md): Basic Piracy Safety Guide
+- [Adblocking / Privacy](https://freemediaheckyeah.pages.dev/adblockvpnguide.md): Adblocking, Privacy, VPN's, Proxies, Antivirus
+- [Artificial Intelligence](https://freemediaheckyeah.pages.dev/ai.md): Chat Bots, Text Generators, Image Generators, ChatGPT Tools
+- [Movies / TV / Anime](https://freemediaheckyeah.pages.dev/videopiracyguide.md): Stream Videos, Download Videos, Torrent Videos
+- [Music / Podcasts / Radio](https://freemediaheckyeah.pages.dev/audiopiracyguide.md): Stream Audio, Download Audio, Torrent Audio
+- [Gaming / Emulation](https://freemediaheckyeah.pages.dev/gamingpiracyguide.md): Download Games, ROMs, Gaming Tools
+- [Books / Comics / Manga](https://freemediaheckyeah.pages.dev/readingpiracyguide.md): Books, Comics, Magazines, Newspapers
+- [Downloading](https://freemediaheckyeah.pages.dev/downloadpiracyguide.md): Download Sites, Software Sites, Open Directories
+- [Torrenting](https://freemediaheckyeah.pages.dev/torrentpiracyguide.md): Torrent Clients, Torrent Sites, Trackers
+- [Educational](https://freemediaheckyeah.pages.dev/edupiracyguide.md): Courses, Documentaries, Learning Resources
+- [Tools](https://freemediaheckyeah.pages.dev/toolsguide.md): General Tools, Internet Tools, System Tools
+- [Image Tools](https://freemediaheckyeah.pages.dev/img-tools.md): ⭐ Image Editors - Image Editing Software & Sites
+- [Developer Tools](https://freemediaheckyeah.pages.dev/devtools.md): ⭐ Programming / Coding Tutorials
+- [Android / iOS](https://freemediaheckyeah.pages.dev/android-iosguide.md): Apps, Jailbreaking, Android Emulators
+- [Linux / MacOS](https://freemediaheckyeah.pages.dev/linuxguide.md): Apps, Software Sites, Gaming
+- [Non-English](https://freemediaheckyeah.pages.dev/non-english.md): International Piracy Sites
+- [Miscellaneous](https://freemediaheckyeah.pages.dev/miscguide.md): Extensions, Indexes, News, Health, Food, Fun
+- [NSFW](https://freemediaheckyeah.pages.dev/nsfwpiracy.md): This list only contains sites / tools not found on PornDude.
+- [Base64](https://freemediaheckyeah.pages.dev/base64.md): Use any Base64 Decoding site or extension. Alternatively, install this userscript
+- [STORAGE](https://freemediaheckyeah.pages.dev/storage.md): ⭐ Blender
